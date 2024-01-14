@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC56B0DF-9D4F-4CD7-90E0-2DF4F469284E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35B2C268-A6C7-4D9D-AEDA-BF9287BEDD8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Charm_Relator_FE_8905384/History.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "fetchHistoryList(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35B2C268-A6C7-4D9D-AEDA-BF9287BEDD8B - 3b7ab26fa31020f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Charm_Relator_FE_8905384.History.saveToHistoryList(Swift.String, Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Charm_Relator_FE_8905384"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmjo/Documents/PROG8471/Charm_Relator_FE_8905384/Charm_Relator_FE_8905384/History.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "35B2C268-A6C7-4D9D-AEDA-BF9287BEDD8B - 462a54a1f5c6f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Charm_Relator_FE_8905384.History.fetchHistoryList(completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Charm_Relator_FE_8905384"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmjo/Documents/PROG8471/Charm_Relator_FE_8905384/Charm_Relator_FE_8905384/History.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "35B2C268-A6C7-4D9D-AEDA-BF9287BEDD8B - a1c6717427cfe37e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Charm_Relator_FE_8905384.History.fetchHistoryList(completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Charm_Relator_FE_8905384"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmjo/Documents/Conestoga/MSD/classwork-to-showcase/ios-final/Charm_Relator_FE_8905384/Charm_Relator_FE_8905384/History.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
